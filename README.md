@@ -1,2 +1,3 @@
-# Portifolio_Pessoal
-Introdução ao projeto de repositórios
+# Portifolio_Pessoal.
+Introdução ao projeto de repositórios.
+Currículo.
